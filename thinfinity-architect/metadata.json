@@ -1,0 +1,5 @@
+{
+  "name": "Thinfinity Architect",
+  "description": "An interactive IT architecture design tool powered by Gemini to visualize and build Thinfinity-based infrastructure deployments.",
+  "requestFramePermissions": []
+}
